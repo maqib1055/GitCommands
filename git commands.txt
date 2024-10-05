@@ -1,0 +1,51 @@
+git or github
+
+-source code maintain
+-files tracking
+-changes
+-recover
+
+as team work
+files combine
+code review
+
+git version control
+
+every day each changes ( version )
+
+flow ( offline ) local repository(project)
+files status ( track / untrack )
+untrack > files add git > tracking
+every changes > commit "message" > log
+history
+
+github connect git
+github repository > clone > offline
+
+offline projects > push > clone >
+
+local > online push
+online > offline ( clone, fork, pull )
+
+github ( online centerilized system )
+repository ( private / public )
+
+clone changes
+issues
+developer contribute ( cost reduce )
+software house 
+linked profile
+github
+
+1.drag drop github software
+2.visual code extension
+3.commands
+
+commands
+git init
+git status
+git add .
+git commit -m "sdflsj"
+git log
+git push
+git clone url github
